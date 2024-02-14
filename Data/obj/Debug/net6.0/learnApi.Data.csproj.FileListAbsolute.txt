@@ -1,0 +1,17 @@
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\bin\Debug\net6.0\learnApi.Data.deps.json
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\bin\Debug\net6.0\learnApi.Data.runtimeconfig.json
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\bin\Debug\net6.0\learnApi.Data.dll
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\bin\Debug\net6.0\learnApi.Data.pdb
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\bin\Debug\net6.0\learnApi.Models.dll
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\bin\Debug\net6.0\learnApi.Models.pdb
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\learnApi.Data.csproj.AssemblyReference.cache
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\learnApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\learnApi.Data.AssemblyInfoInputs.cache
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\learnApi.Data.AssemblyInfo.cs
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\learnApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\learnApi.Data.csproj.CopyComplete
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\learnApi.Data.dll
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\refint\learnApi.Data.dll
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\learnApi.Data.pdb
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\learnApi.Data.genruntimeconfig.cache
+C:\Users\S2-PC00\Desktop\pizzabuena\Data\obj\Debug\net6.0\ref\learnApi.Data.dll

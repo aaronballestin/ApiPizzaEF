@@ -1,0 +1,7 @@
+C:\Users\S2-PC00\Desktop\pizzabuena\Api\obj\Debug\net6.0\learnApi.Api.csproj.AssemblyReference.cache
+C:\Users\S2-PC00\Desktop\pizzabuena\Api\obj\Debug\net6.0\learnApi.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S2-PC00\Desktop\pizzabuena\Api\obj\Debug\net6.0\learnApi.Api.AssemblyInfoInputs.cache
+C:\Users\S2-PC00\Desktop\pizzabuena\Api\obj\Debug\net6.0\learnApi.Api.AssemblyInfo.cs
+C:\Users\S2-PC00\Desktop\pizzabuena\Api\obj\Debug\net6.0\learnApi.Api.csproj.CoreCompileInputs.cache
+C:\Users\S2-PC00\Desktop\pizzabuena\Api\obj\Debug\net6.0\learnApi.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\S2-PC00\Desktop\pizzabuena\Api\obj\Debug\net6.0\learnApi.Api.MvcApplicationPartsAssemblyInfo.cache
