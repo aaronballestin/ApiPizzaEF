@@ -3,10 +3,12 @@ using Microsoft.AspNetCore.Mvc;
 using learnApi.Models;
 using learnApi.Services;
 
+
+
 namespace learnApi.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("[controller]/")]
     public class IngredientController : ControllerBase
     {
         private readonly IngredientService _ingredientService;

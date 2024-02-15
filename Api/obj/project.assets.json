@@ -2233,8 +2233,6 @@
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 6.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3",
-      "learnApi.Data >= 1.0.0",
-      "learnApi.Models >= 1.0.0",
       "learnApi.Services >= 1.0.0"
     ]
   },
@@ -2245,11 +2243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Api\\learnApi.Api.csproj",
+      "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\apipizza\\ApiPizzaEF\\Api\\learnApi.Api.csproj",
       "projectName": "learnApi.Api",
-      "projectPath": "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Api\\learnApi.Api.csproj",
+      "projectPath": "C:\\Users\\S2-PC00\\Desktop\\apipizza\\ApiPizzaEF\\Api\\learnApi.Api.csproj",
       "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Api\\obj\\",
+      "outputPath": "C:\\Users\\S2-PC00\\Desktop\\apipizza\\ApiPizzaEF\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2271,14 +2269,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Data\\learnApi.Data.csproj": {
-              "projectPath": "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Data\\learnApi.Data.csproj"
-            },
-            "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Models\\learnApi.Models.csproj": {
-              "projectPath": "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Models\\learnApi.Models.csproj"
-            },
-            "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Services\\learnApi.Services.csproj": {
-              "projectPath": "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Services\\learnApi.Services.csproj"
+            "C:\\Users\\S2-PC00\\Desktop\\apipizza\\ApiPizzaEF\\Services\\learnApi.Services.csproj": {
+              "projectPath": "C:\\Users\\S2-PC00\\Desktop\\apipizza\\ApiPizzaEF\\Services\\learnApi.Services.csproj"
             }
           }
         }

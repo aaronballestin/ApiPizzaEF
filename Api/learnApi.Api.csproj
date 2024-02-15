@@ -16,8 +16,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Services\learnApi.Services.csproj" />
-    <ProjectReference Include="..\Data\learnApi.Data.csproj" />
-    <ProjectReference Include="..\Models\learnApi.Models.csproj" />
 
   </ItemGroup>
 
