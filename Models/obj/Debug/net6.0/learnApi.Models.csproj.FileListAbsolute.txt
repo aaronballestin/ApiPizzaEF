@@ -10,3 +10,15 @@ C:\Users\S2-PC00\Desktop\pizzabuena\Models\obj\Debug\net6.0\learnApi.Models.dll
 C:\Users\S2-PC00\Desktop\pizzabuena\Models\obj\Debug\net6.0\refint\learnApi.Models.dll
 C:\Users\S2-PC00\Desktop\pizzabuena\Models\obj\Debug\net6.0\learnApi.Models.pdb
 C:\Users\S2-PC00\Desktop\pizzabuena\Models\obj\Debug\net6.0\ref\learnApi.Models.dll
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\bin\Debug\net6.0\learnApi.Models.deps.json
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\bin\Debug\net6.0\learnApi.Models.dll
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\bin\Debug\net6.0\learnApi.Models.pdb
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\obj\Debug\net6.0\learnApi.Models.csproj.AssemblyReference.cache
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\obj\Debug\net6.0\learnApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\obj\Debug\net6.0\learnApi.Models.AssemblyInfoInputs.cache
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\obj\Debug\net6.0\learnApi.Models.AssemblyInfo.cs
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\obj\Debug\net6.0\learnApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\obj\Debug\net6.0\learnApi.Models.dll
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\obj\Debug\net6.0\refint\learnApi.Models.dll
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\obj\Debug\net6.0\learnApi.Models.pdb
+C:\Users\S2-PC00\Desktop\apipizza\ApiPizzaEF\Models\obj\Debug\net6.0\ref\learnApi.Models.dll

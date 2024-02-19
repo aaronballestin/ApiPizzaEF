@@ -24,6 +24,7 @@ public class Pizza : IPizza
 
     public decimal Price{get; set;}
 
+    public List<DetallePizza> DetallePizzas {get; set;}
 
 
 }

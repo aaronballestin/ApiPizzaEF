@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Models\\learnApi.Models.csproj",
+      "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\apipizza\\ApiPizzaEF\\Models\\learnApi.Models.csproj",
       "projectName": "learnApi.Models",
-      "projectPath": "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Models\\learnApi.Models.csproj",
+      "projectPath": "C:\\Users\\S2-PC00\\Desktop\\apipizza\\ApiPizzaEF\\Models\\learnApi.Models.csproj",
       "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Models\\obj\\",
+      "outputPath": "C:\\Users\\S2-PC00\\Desktop\\apipizza\\ApiPizzaEF\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

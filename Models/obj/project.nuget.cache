@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nFFH8Q6MnZY6cxO14LRTx4EdOEAE/U2MqWv9wI2Ax9dBTiykww0IEt/gfpOLvDxunBV/Au8OsmGz+YwTaIv+tw==",
+  "dgSpecHash": "cDMwQGXCSg/PuNuGz23sfb9RJKcClH5fFKR7ZnEv2RP/wAUcZepUZYU5hwMXcttqFOumQbzSs0D5VdZHzK3Uww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S2-PC00\\Desktop\\pizzabuena\\Models\\learnApi.Models.csproj",
+  "projectFilePath": "C:\\Users\\S2-PC00\\Desktop\\apipizza\\ApiPizzaEF\\Models\\learnApi.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

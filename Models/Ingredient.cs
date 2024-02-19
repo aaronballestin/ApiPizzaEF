@@ -10,7 +10,8 @@ public class Ingredient : IIngredient
 
     public decimal BonusPrice { get; set; }
 
-    public ICollection<DetallePizza> DetallePizzas { get; set; }
+    public List<DetallePizza> DetallePizzas {get; set;}
+    
 
     public Ingredient()
     {

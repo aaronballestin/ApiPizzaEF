@@ -14,8 +14,8 @@ namespace learnApi.Data
         public DbSet<Pizza> Pizzas { get; set; }
         public DbSet<Ingredient> Ingredients { get; set; }
         public DbSet<DetallePizza> DetallePizzas { get; set; }
-        public DbSet<Order> Orders {get; set;}
-        public DbSet<User> Users {get; set;}
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<User> Users { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -23,8 +23,19 @@ namespace learnApi.Data
 
             base.OnModelCreating(modelBuilder);
 
-            //  modelBuilder.Entity<DetallePizza>()
-            //     .HasKey(pi => new { pi.PizzaId, pi.IngredientId });
+            modelBuilder.Entity<DetallePizza>()
+               .HasKey(pi => new { pi.PizzaId, pi.IngredientId });
+
+
+            modelBuilder.Entity<DetalePizza>()
+                .HasOne(pi => pi.Pizza)
+                .WithMany(p => p.DetallePizzas)
+                .HasForeignKey(pi => pi.PizzaId);
+
+            modelBuilder.Entity<DetallePizza>()
+                .HasOne(pi => pi.Ingrediente)
+                .WithMany(i => i.DetallePizzas)
+                .HasForeignKey(pi => pi.IngredienteId);
 
             // Datos iniciales
             modelBuilder.Entity<DetallePizza>().HasData(
@@ -50,7 +61,8 @@ namespace learnApi.Data
                 new Ingredient { IngredientId = 5, Name = "Bell Peppers" }
             );
 
-            
+
+
         }
     }
 }
